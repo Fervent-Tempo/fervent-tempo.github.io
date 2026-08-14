@@ -1,2 +1,2 @@
-# AmorFate.github.io
+# fervent-tempo.github.io
 AmorFate pages
