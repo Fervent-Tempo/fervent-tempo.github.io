@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "version": "1.1.0",
+  "releaseDate": "2026-08-14",
+  "minimumSupportedVersion": "1.0.0",
+  "mandatory": false,
+  "title": "AF Media Bar 1.1.0",
+  "changelog": [
+    "Windows 10 compatibility support, with continued Windows 11 support",
+    "Automatic system theme matching, independent themes, and horizontal or vertical taskbar layouts",
+    "Expanded window behavior options, automatic update checks, and fallback manifest sources",
+    "Refactored settings and taskbar window hosting, plus a context-menu z-order fix"
+  ],
+  "releaseNotesUrl": "https://github.com/Fervent-Tempo/AF-Media-Bar/releases/tag/v1.1.0",
+  "downloads": {
+    "github": "https://github.com/Fervent-Tempo/AF-Media-Bar/releases/download/v1.1.0/AFMediaBar-v1.1.0-win-x64.zip",
+    "quark": "https://pan.quark.cn/s/6987e4945b16",
+    "baidu": "https://pan.baidu.com/s/1zUQtZ_N1tnRTjJKd9kKREA?pwd=6ddc",
+    "lanzou": "https://amorfate.lanzoue.com/b01eupanbg"
+  },
+  "sha256": {
+    "github": "7e86059e50d34bc53a8d8e591c4bc604f9cc93eeb1c251a499406d66e1bc21a2"
+  }
+}
